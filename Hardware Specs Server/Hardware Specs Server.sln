@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hardware Specs Server", "Hardware Specs Server.csproj", "{D77B4E6C-26DA-4651-BE0F-4BD61A4DD06E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Hardware_Server", "..\Setup_Hardware_Server\Setup_Hardware_Server.vdproj", "{953B2F24-997B-48C5-BF39-FCB3FF9151E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77B4E6C-26DA-4651-BE0F-4BD61A4DD06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77B4E6C-26DA-4651-BE0F-4BD61A4DD06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77B4E6C-26DA-4651-BE0F-4BD61A4DD06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77B4E6C-26DA-4651-BE0F-4BD61A4DD06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953B2F24-997B-48C5-BF39-FCB3FF9151E0}.Debug|Any CPU.ActiveCfg = Release
+		{953B2F24-997B-48C5-BF39-FCB3FF9151E0}.Release|Any CPU.ActiveCfg = Release
+		{953B2F24-997B-48C5-BF39-FCB3FF9151E0}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F48AE9C-909E-40A7-90EB-2153F5EC096F}
+	EndGlobalSection
+EndGlobal

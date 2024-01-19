@@ -1,0 +1,52 @@
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\Hardware Specs Server.exe.config
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\Hardware Specs Server.exe
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\Hardware Specs Server.pdb
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\EPPlus.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\EPPlus.Interfaces.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\ExcelMapper.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\NPOI.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\NPOI.OOXML.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Buffers.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Memory.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Text.Json.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.ValueTuple.dll
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\EPPlus.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\ExcelMapper.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\Newtonsoft.Json.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\NPOI.pdb
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\NPOI.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\NPOI.OOXML.pdb
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\NPOI.OOXML.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\NPOI.OpenXml4Net.pdb
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\NPOI.OpenXml4Net.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\NPOI.OpenXmlFormats.pdb
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Buffers.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Memory.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Text.Json.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\bin\Release\System.ValueTuple.xml
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\obj\Release\Hardware Specs Server.csproj.AssemblyReference.cache
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\obj\Release\Hardware Specs Server.csproj.CoreCompileInputs.cache
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\obj\Release\Hardware Specs Server.csproj.CopyComplete
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\obj\Release\Hardware Specs Server.exe
+C:\Users\Tim van Naarden\OneDrive\Progammeren\C#\Hardware Specs Server\obj\Release\Hardware Specs Server.pdb
